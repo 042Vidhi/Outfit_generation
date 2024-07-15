@@ -1,0 +1,109 @@
+{
+    "dress": [
+        {
+            "image": "assets/dress/dress1.png",
+            "link": "https://www.myntra.com/dresses/aayu/aayu-georgette-a-line-midi-dress/22493142/buy",
+            "name": "Georgette A-Line Black Midi Dress",
+            "price" : "Rs. 615"
+        },
+        {
+            "image": "assets/dress/dress2.png",
+            "link": "https://www.myntra.com/dresses/curve+by+kassually/curve-by-kassually-black-v-neck-flared-sleeves-tie-ups-wrap-dress/25506878/buy",
+            "name": "Black V-Neck Flared Sleeves Dress",
+            "price" : "Rs. 873"
+        },
+        {
+            "image": "assets/dress/dress3.png",
+            "link": "https://www.myntra.com/dresses/sassafras+worklyf/sassafras-worklyf-shoulder-straps-bodycon-dress-with-shrug/22853166/buy",
+            "name": "Bodycon Dress With Shrug",
+            "price" : "Rs. 839"
+        },
+        {
+            "image": "assets/dress/dress4.png",
+            "link": "https://www.myntra.com/dresses/addyvero/addyvero-v-neck-a-line-midi-dress/27737430/buy",
+            "name": "V-Neck A-Line Black Midi Dress",
+            "price" : "Rs. 699"
+        }
+    ],
+    "skirts": [
+        {
+            "image": "https://example.com/skirts1.jpg",
+            "link": "https://www.myntra.com/skirts1",
+            "name": "Pleated Skirt"
+        },
+        {
+            "image": "https://example.com/skirts2.jpg",
+            "link": "https://www.myntra.com/skirts2",
+            "name": "Denim Skirt"
+        },
+        {
+            "image": "https://example.com/skirts3.jpg",
+            "link": "https://www.myntra.com/skirts3",
+            "name": "A-line Skirt"
+        },
+        {
+            "image": "https://example.com/skirts4.jpg",
+            "link": "https://www.myntra.com/skirts4",
+            "name": "Maxi Skirt"
+        },
+        {
+            "image": "https://example.com/skirts5.jpg",
+            "link": "https://www.myntra.com/skirts5",
+            "name": "Mini Skirt"
+        }
+    ],
+    "shirts": [
+        {
+            "image": "https://example.com/shirts1.jpg",
+            "link": "https://www.myntra.com/shirts1",
+            "name": "Formal Shirt"
+        },
+        {
+            "image": "https://example.com/shirts2.jpg",
+            "link": "https://www.myntra.com/shirts2",
+            "name": "Casual Shirt"
+        },
+        {
+            "image": "https://example.com/shirts3.jpg",
+            "link": "https://www.myntra.com/shirts3",
+            "name": "Denim Shirt"
+        },
+        {
+            "image": "https://example.com/shirts4.jpg",
+            "link": "https://www.myntra.com/shirts4",
+            "name": "Flannel Shirt"
+        },
+        {
+            "image": "https://example.com/shirts5.jpg",
+            "link": "https://www.myntra.com/shirts5",
+            "name": "Linen Shirt"
+        }
+    ],
+    "pants": [
+        {
+            "image": "https://example.com/pants1.jpg",
+            "link": "https://www.myntra.com/pants1",
+            "name": "Jeans"
+        },
+        {
+            "image": "https://example.com/pants2.jpg",
+            "link": "https://www.myntra.com/pants2",
+            "name": "Chinos"
+        },
+        {
+            "image": "https://example.com/pants3.jpg",
+            "link": "https://www.myntra.com/pants3",
+            "name": "Formal Pants"
+        },
+        {
+            "image": "https://example.com/pants4.jpg",
+            "link": "https://www.myntra.com/pants4",
+            "name": "Joggers"
+        },
+        {
+            "image": "https://example.com/pants5.jpg",
+            "link": "https://www.myntra.com/pants5",
+            "name": "Cargo Pants"
+        }
+    ]
+}

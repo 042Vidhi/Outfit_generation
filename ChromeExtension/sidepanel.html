@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Chrome Extension</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="https://cdn.jsdelivr.net/npm/appwrite@15.0.0"></script>
+</head>
+<body>
+    <h1 class="heading">Myntra Archives</h1>
+    <p class="heading2">Trend Identification</p>
+    <p>Upload an image to find similar outfits on Myntra</p>
+    <div class="uploadImg">
+        <input type="file" id="upload" accept="image/*">
+        <div class="uploadBox" id="uploadBox">
+            <img id="uploadIcon" src="assets/uploadIcon.png" alt="Upload Icon">
+            <p>Click to upload or drop an image here</p>
+            <p>Max size: 5MB</p>
+        </div>
+    </div>
+    <button id="search">Search</button>
+    <div class="savediv">
+        <span>Didn't find your image? Save here to let us know what you want</span>
+        <button id="save">Save</button>
+    </div>
+    <div id="results"></div>
+    <script src="popup.js"></script>
+
+</body>
+</html>

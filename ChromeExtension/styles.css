@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+.heading {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+    color: #F13AB1;
+}
+
+.heading2 {
+    margin-bottom: 1em;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #F05524;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.uploadImg {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    border: 2px dashed #E5C4F1;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAF5FF;
+}
+
+.uploadBox {
+    text-align: center;
+    color: #8C8C8C;
+    position: relative;
+}
+
+.uploadBox img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+.uploadedImage {
+    max-width: 100px;
+    object-fit: contain;
+    border-radius: 12px;
+}
+
+.uploadBox p {
+    margin: 5px 0;
+    color: #8C8C8C;
+}
+
+input[type="file"] {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+#search{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: block;
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #F05524;
+    border-radius: 10px;
+    color: #FAF5FF;
+    border: none;
+    cursor: pointer;
+}
+.savediv{
+    display: flex;
+    background-color: #f7e5df;
+    padding: 5px;
+    border-radius: 5px;
+    justify-content: center;
+}
+#save{
+    width: 20%;
+    background-color: #F13AB1;
+    color: #FAF5FF;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#results {
+    margin-top: 1em;
+}
+
+.result-item {
+    margin-bottom: 20px;
+    background-color: #eceefd;
+    display: flex;
+    border-radius: 5px;
+}
+
+.result-item img {
+    max-width: 80px;
+    display: block;
+    padding: 10px;
+}
+
+.result-item .details {
+    display: flex;
+    flex-direction: column;
+    
+}
+.result-item .details .price {
+    margin-bottom: 10px;
+}
+
+.result-item .details a {
+    color: #001831;
+    text-decoration: none;
+}
+
+.result-item .details p {
+    font-size: 1em;
+}
+
+.result-item .details a:hover {
+    text-decoration: underline;
+}
+
+
