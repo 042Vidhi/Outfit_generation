@@ -24,7 +24,7 @@ Our second solution is a Chrome extension that helps users find products on Mynt
 - **User Insights:** Provides Myntra with data on what users are searching for across the web.
 
 #### Demo Video
-[Watch the demo video](#https://drive.google.com/file/d/1R4il9qgttnKw2wKCPkdOmb3DNLGQ_Ch_/view?usp=sharing)
+![Watch the demo video](https://drive.google.com/file/d/1R4il9qgttnKw2wKCPkdOmb3DNLGQ_Ch_/view?usp=sharing)
 
 #### Screenshots
 1. **Trend Generation:**
