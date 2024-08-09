@@ -1,5 +1,5 @@
 # MyntraHacker Ramp Hackathon: Build for Gen Z
-
+![Phase](image.png)
 ## Overview
 
 Welcome to our submission for the MyntraHacker Ramp Hackathon! We are Team Jade. Our project is focused on creating innovative solutions for Generation Z under the theme "Build for Gen Z." We are excited to present two solutions: Trend Generation and Trend Identification.
